@@ -25,7 +25,7 @@ body {
 }
 
 .image {
-    background-image: url(/images/image-qr-code.png);
+    background-image: url(images/image-qr-code.png);
     background-size: contain;
     border-radius: 8%;
     width: 80dvw;
